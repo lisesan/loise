@@ -40,3 +40,13 @@ text-transform: uppercase;
 
 color: #604E3A;
 }
+
+.truc{
+   
+width: 133px;
+height: 129px;
+border: 2px solid rgba(255, 255, 255, 0.62);
+border-radius: 5px;
+margin-left: 32px;
+
+}
