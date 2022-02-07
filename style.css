@@ -19,8 +19,8 @@ color: #604E3A;
 margin-left: 32px;
 margin-top: 3px;
 
-font-family: Archivo;
-font-style: normal;
+font-family: 'Archivo', sans-serif;
+font-style: bolder;
 font-weight: 600;
 font-size: 37px;
 }
@@ -30,7 +30,7 @@ font-size: 37px;
 margin-top: 24px;
 
 margin-left: 32px;
-font-family: Archivo;
+font-family: 'Archivo', sans-serif;
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
