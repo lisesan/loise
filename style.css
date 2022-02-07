@@ -54,13 +54,13 @@ margin-left: 32px;
 .Random{
   height: 37px;
   position: absolute;
-padding: 2rem;
-
-padding-top: 6rem;
+  padding: 2rem;  
+  padding-top: 6rem;
 
 
 background: #FFFFFF;
 }
+
 
 .partie1{
 display: flex;
@@ -118,3 +118,18 @@ margin-top:15px;
     display: flex;
     flex-direction: column;
 }
+/*
+.muscic{
+  padding-left: 12rem;
+  padding-top: rem;
+}
+.music2{
+  padding-left: 17.5rem;
+  padding-top: 8rem;
+}
+
+.music3{
+  padding-left: 17.5rem;
+  padding-top: 1rem;
+>>>>>>> 83f631ddc38274390cfc2e500484c1b36286a8b2
+*/
