@@ -61,75 +61,15 @@ margin-left: 32px;
 background: #FFFFFF;
 }
 
-
-.partie1{
-display: flex;
-flex-direction: row;
-font-family: 'Archivo', sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 17px;
-margin-top: 26px;
-}
-
-.partie2{
-display: flex;
-flex-direction: row;
-font-family: 'Archivo', sans-serif;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 17px;
-margin-top: 31px;
-}
-
-.titre1{
-margin-left:18px ;
-}
-
-.music{
-margin-left:32px;
-}
-
-.points2{
-    Width: 4px;
-    Height:18px;
-    margin-top: 15px;
-    margin-left:81px;
-}
-
-.points{
-    Width: 4px;
-    Height:18px;
-    margin-top: 15px;
-    margin-left:61px;
-}
-
-
-.music2{
-margin-left:26px;
-width:20px;
-height:20px;
-margin-top:15px;
-}
-
-.infos{
-    display: flex;
-    flex-direction: column;
-}
-/*
 .muscic{
   padding-left: 12rem;
   padding-top: rem;
 }
-.music2{
+/*.music2{
   padding-left: 17.5rem;
   padding-top: 8rem;
 }
 
 .music3{
   padding-left: 17.5rem;
-  padding-top: 1rem;
->>>>>>> 83f631ddc38274390cfc2e500484c1b36286a8b2
-*/
+  padding-top: 1rem;*/
